@@ -1,0 +1,36 @@
+
+.navbar{
+	margin-bottom: 30px;
+	margin-right: 20px;
+	width: 100%;
+}
+body{
+	background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+	color: #ffcc66;
+	font-family: 'Margarine', cursive;
+}
+.card-title{
+	text-align: center;
+	font-size: 30px;
+	
+	width: 100%;
+}
+
+.card-body{
+	
+}
+
+.img-fluid{
+	height: 300px;
+
+}
+.sort_search{
+	margin-bottom: 30px;
+}
+.cart_image{
+	margin-left: 20px;
+}
+.btn{
+	margin-right: 20px;
+	margin-top: 10px;
+}

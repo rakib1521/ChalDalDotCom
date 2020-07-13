@@ -1,0 +1,23 @@
+.product_image{
+	height: 90px;
+	width: 90px;
+}
+.total-price{
+	border: 2px dotted;
+	padding: 30px;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.place_order{
+	margin-top: 50px;
+}
+body{
+	background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+	color: #ffcc66;
+	font-family: 'Margarine', cursive;
+}
+
+.btn{
+	margin-right: 20px;
+	margin-top: 10px;
+}

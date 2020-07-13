@@ -1,0 +1,34 @@
+.navbar{
+	margin-bottom: 30px;
+	margin-right: 20px;
+	width: 100%;
+}
+body{
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(132,198,64,0.3058357131915266) 35%, rgba(0,212,255,1) 100%);
+	color: #ffcc66;
+}
+.card-title{
+	text-align: center;
+	font-size: 30px;
+	background: rgb(2,0,36);
+	width: 100%;
+}
+
+.card-body{
+	background: rgb(2,0,36);
+}
+
+.img-fluid{
+	height: 300px;
+
+}
+.sort_search{
+	margin-bottom: 30px;
+}
+.cart_image{
+	margin-left: 20px;
+}
+.btn{
+	margin-right: 20px;
+	margin-top: 10px;
+}
